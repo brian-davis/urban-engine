@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Developer Name"]
   spec.email = ["developer@example.com"]
 
-  spec.summary = "deo gem"
+  spec.summary = "demo gem"
   spec.description = "Demonstrate gem-writing best practices."
   spec.homepage = "https://www.horizonridge.studio/articles/a-practical-guide-to-creating-a-ruby-gem"
   spec.license = "MIT"
