@@ -4,7 +4,7 @@ require_relative "test_helper"
 
 class TestHelloWorld < Minitest::Test
   def test_it_does_something_useful
-    assert("Hello, World!", GemDemo::HelloWorld.call)
+    assert_equal("Hello, World!", GemDemo::HelloWorld.call)
   end
 
   def test_name_distance
